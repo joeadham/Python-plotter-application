@@ -40,12 +40,12 @@ The web application is built using the following technologies:
 
 ## Screenshots
 
-### Valid functions:
+### Valid inputs:
 ![1](https://github.com/joeadham/Python-plotter-application/assets/81246343/a1458edc-3eaf-4b38-a6eb-bdd4ae7fe5c1)
 ![2](https://github.com/joeadham/Python-plotter-application/assets/81246343/a576cb54-db92-4258-b36f-7feb178e60fb)
 ![3](https://github.com/joeadham/Python-plotter-application/assets/81246343/6192efe5-9c68-47d0-8373-6554663c64fe)
 
-### Invalid functions:
+### Invalid inputs:
 ![5](https://github.com/joeadham/Python-plotter-application/assets/81246343/f33340ec-0e1c-4ab0-9453-3d381a6933df)
 ![4](https://github.com/joeadham/Python-plotter-application/assets/81246343/5f2129f7-96be-4c72-9062-640d8b39b2fb)
 
